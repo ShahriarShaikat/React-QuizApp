@@ -1,0 +1,36 @@
+{
+  // Theme
+  //"workbench.colorTheme": "Dracula",
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact"
+  },
+  // "files.associations": {
+  //   "*.react.js": "javascriptreact",
+  //   "*.stories.js": "javascriptreact",
+  //   "*.action.js": "javascriptreact",
+  //   "*.reducer.js": "javascriptreact",
+  //   "*.styles.js": "javascriptreact",
+  //   "*.styles.react.js": "javascriptreact",
+  //   "*.styles.jsx": "javascriptreact",
+  //   "*.svg.js": "javascriptreact",
+  //   "*.jsx": "javascriptreact",
+  //   "*.js": "javascriptreact",
+  //   ".stylelintrc": "jsonc"
+  // },
+  "editor.fontSize": 24,
+  "editor.tabSize": 2,
+  "terminal.integrated.fontSize": 18,
+  "window.zoomLevel": 0,
+  "[Log]": {
+    "editor.fontSize": 18
+  },
+  "emmet.triggerExpansionOnTab": true,
+  "editor.formatOnSave": true,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true,
+    "source.fixAll.tslint": true,
+    "source.organizeImports": true
+  },
+  "javascript.validate.enable": false,
+  "typescript.validate.enable": false
+}
